@@ -1,3 +1,9 @@
+nav {
+  background: #001253;
+  padding: 10px;
+  text-align: center;
+}
+
 body {
     background-color: #ff8ad6;
     font-family: Georgia, 'Times New Roman', Times, serif;
